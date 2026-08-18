@@ -1,2 +1,2 @@
-# Atuhairejoel203-gmail.com
+# Bunyonyi Church of Uganda 
 my static website 
